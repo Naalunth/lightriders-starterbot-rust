@@ -1,0 +1,6 @@
+[package]
+name = "lightriders-starterbot-rust"
+version = "0.1.0"
+authors = ["Kevin Schier <kevin-schier@web.de>"]
+
+[dependencies]

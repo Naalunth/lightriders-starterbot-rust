@@ -1,0 +1,4 @@
+[root]
+name = "lightriders-starterbot-rust"
+version = "0.1.0"
+
